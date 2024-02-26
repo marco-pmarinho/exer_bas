@@ -1,0 +1,31 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+/* #classe texto é para evitar codigo duplicado */
+.primeiro-padrao {
+    background-color: grey; 
+}
+
+.segundo-destacado {
+    background-color: #F0CCE2;
+}
+
+table {
+    color: white;
+}
+
+.moda th {
+    background-color: #BB86FC;
+    padding: 10px;
+}
+
+.casa th {
+    background-color: #00C4B4;
+    padding: 10px;
+}
+
+td {
+    background-color: #424250;
+    padding: 5px;
+}
